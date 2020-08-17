@@ -1,4 +1,4 @@
-,city,lat,lng,max temp,humidity,cloudiness,wind_speed,country,date
+,city,lat,lng,max_temp,humidity,cloudiness,wind_speed,country,date
 0,Hithadhoo,-0.6,73.08,83.28,71,22,4.5,MV,1597546061
 1,Pemangkat,1.17,108.97,79.72,78,86,6.71,ID,1597546061
 2,North Bend,43.41,-124.22,73.0,63,1,5.82,US,1597546061
