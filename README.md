@@ -66,7 +66,7 @@ Using jupyter-gmaps and the Google Places API data will be used to plan a fictic
 
 * Using Google Places API, hotels within the range of criteria are plotted on a heatmap with markers.
 
-  ![heatmap](output_data/hotel_heatmap.png)
+  ![hotel_heatmap](output_data/hotel_heatmap.png)
 
 
 ### Copyright
