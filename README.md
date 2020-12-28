@@ -56,7 +56,7 @@ Using jupyter-gmaps and the Google Places API data will be used to plan a fictic
 
 * A heat map was created that displays the humidity for every city from WeatherPy.
 
-  ![heatmap](output_data/heatmap.png)
+  ![heatmap](output_data/heatmap.PNG)
 
 * The DataFrame was narrowed down to find (my) ideal weather condition. For example:
 
@@ -66,7 +66,7 @@ Using jupyter-gmaps and the Google Places API data will be used to plan a fictic
 
 * Using Google Places API, hotels within the range of criteria are plotted on a heatmap with markers.
 
-  ![hotel_heatmap](output_data/hotel_heatmap.png)
+  ![hotel_heatmap](output_data/hotel_heatmap.PNG)
 
 
 ### Copyright
